@@ -1,0 +1,3 @@
+pandas
+streamlit
+sckit-learn==1.6.1
